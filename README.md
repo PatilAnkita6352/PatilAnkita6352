@@ -1,9 +1,10 @@
+
 <h1 align="center">Hi 👋, I'm Ankita Patil</h1>
 <h3 align="center">A technology-driven individual with a deep commitment to coding.</h3>
-<img width=200 alt="Coding girl" src="">
+<img align="right" width=200 alt="Coding girl" src="https://github.com/PatilAnkita6352/PatilAnkita6352/blob/main/UTSEH078Aw%20(1).gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patilankita6352&label=Profile%20views&color=0e75b6&style=flat" alt="patilankita6352" /> </p>
 
-- 🌱 I’m currently learning **Django, Google Cloud Platform**
+- 🌱 I’m currently learning **Django, Google Cloud Platform, AWS**
 
 - 📫 How to reach me **Patilankita6352@gmail.com**
 
