@@ -1,4 +1,4 @@
-![logo](https://github.com/PatilAnkita6352/PatilAnkita6352/blob/main/Add%20a%20heading%20(1).png)
+
 <h1 align="center">Hi 👋, I'm Ankita Patil</h1>
 <h3 align="center">A technology-driven individual with a deep commitment to coding.</h3>
 <img align="right" width=200 alt="Coding girl" src="https://github.com/PatilAnkita6352/PatilAnkita6352/blob/main/UTSEH078Aw%20(1).gif">
